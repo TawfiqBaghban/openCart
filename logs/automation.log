@@ -1,0 +1,129 @@
+21:35:50.679 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+21:36:01.440 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+21:36:01.440 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+21:36:12.263 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+21:36:12.264 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+13:07:53.327 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+13:08:04.381 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+13:08:04.396 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+13:08:14.954 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+13:08:14.956 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+13:08:25.737 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+13:08:25.740 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+13:08:36.536 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+13:08:36.539 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+13:24:21.678 [main] INFO  testCases.TC_001_AccountRegistration - test_Account_Registration started .......
+13:24:21.740 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on my account ****
+13:24:22.315 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on account registration ****
+13:24:22.317 [main] INFO  testCases.TC_001_AccountRegistration - **** Providing registration information ****
+13:24:27.581 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on check policy ****
+13:24:27.617 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on continue button ****
+13:24:40.761 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+13:24:41.120 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Login details *****
+13:24:41.275 [main] INFO  testCases.TC_002_LoginTest - ***** Validation *****
+13:44:40.093 [main] INFO  testCases.TC_001_AccountRegistration - test_Account_Registration started .......
+13:44:40.173 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on my account ****
+13:44:41.118 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on account registration ****
+13:44:41.121 [main] INFO  testCases.TC_001_AccountRegistration - **** Providing registration information ****
+13:44:47.527 [main] ERROR testCases.TC_001_AccountRegistration - Test failed ........
+13:44:49.847 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+13:44:50.242 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Login details *****
+13:44:50.672 [main] INFO  testCases.TC_002_LoginTest - ***** Validation *****
+09:47:34.088 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:47:44.731 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+09:47:44.778 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:47:55.498 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+09:47:55.499 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:48:06.184 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+09:48:06.186 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:48:17.056 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+09:48:17.058 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:52:49.979 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:53:00.734 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+09:53:00.765 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:53:11.766 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+09:53:11.767 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:53:56.647 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:54:08.117 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+09:54:08.148 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:54:20.762 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+09:54:20.763 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:54:33.496 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+09:54:33.499 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+09:54:46.174 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+09:54:46.176 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:13:30.372 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:13:41.719 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+12:13:41.751 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:13:53.250 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+12:13:53.265 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:14:06.239 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+12:14:06.239 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:14:18.888 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+12:14:18.888 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:21:24.332 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:21:40.573 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+12:21:40.605 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:21:51.387 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+12:21:51.387 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:22:02.319 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+12:22:02.327 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:22:13.083 [main] INFO  testCases.TC_003_LoginDDT - ***** Finished TC_003_LoginDataDrivenTest *****
+12:22:13.083 [main] INFO  testCases.TC_003_LoginDDT - ***** Starting TC_003_LoginDDT test *****
+12:31:09.055 [main] INFO  testCases.TC_001_AccountRegistration - test_Account_Registration started .......
+12:31:09.122 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on my account ****
+12:31:09.664 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on account registration ****
+12:31:09.664 [main] INFO  testCases.TC_001_AccountRegistration - **** Providing registration information ****
+12:31:16.217 [main] ERROR testCases.TC_001_AccountRegistration - Test failed ........
+12:31:18.741 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+12:31:19.152 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Login details *****
+12:31:19.559 [main] INFO  testCases.TC_002_LoginTest - ***** Validation *****
+12:48:08.665 [main] INFO  testCases.TC_001_AccountRegistration - test_Account_Registration started .......
+12:48:08.738 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on my account ****
+12:48:09.195 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on account registration ****
+12:48:09.195 [main] INFO  testCases.TC_001_AccountRegistration - **** Providing registration information ****
+12:48:15.704 [main] ERROR testCases.TC_001_AccountRegistration - Test failed ........
+12:48:18.099 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+12:48:18.605 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Login details *****
+12:48:18.924 [main] INFO  testCases.TC_002_LoginTest - ***** Validation *****
+12:52:21.233 [main] INFO  testCases.TC_001_AccountRegistration - test_Account_Registration started .......
+12:52:21.299 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on my account ****
+12:52:21.677 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on account registration ****
+12:52:21.677 [main] INFO  testCases.TC_001_AccountRegistration - **** Providing registration information ****
+12:52:28.249 [main] ERROR testCases.TC_001_AccountRegistration - Test failed ........
+12:52:30.749 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+12:52:31.152 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Login details *****
+12:52:31.485 [main] INFO  testCases.TC_002_LoginTest - ***** Validation *****
+13:16:14.735 [main] INFO  testCases.TC_001_AccountRegistration - test_Account_Registration started .......
+13:16:14.819 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on my account ****
+13:16:15.430 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on account registration ****
+13:16:15.431 [main] INFO  testCases.TC_001_AccountRegistration - **** Providing registration information ****
+13:16:21.947 [main] ERROR testCases.TC_001_AccountRegistration - Test failed ........
+13:16:25.021 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+13:16:25.452 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Login details *****
+13:16:25.789 [main] INFO  testCases.TC_002_LoginTest - ***** Validation *****
+18:23:36.223 [main] INFO  testCases.TC_001_AccountRegistration - test_Account_Registration started .......
+18:23:36.290 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on my account ****
+18:23:36.917 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on account registration ****
+18:23:36.919 [main] INFO  testCases.TC_001_AccountRegistration - **** Providing registration information ****
+18:23:42.279 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on check policy ****
+18:23:42.316 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on continue button ****
+18:23:54.399 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:23:54.869 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Login details *****
+18:23:55.142 [main] INFO  testCases.TC_002_LoginTest - ***** Validation *****
+18:25:53.453 [main] INFO  testCases.TC_001_AccountRegistration - test_Account_Registration started .......
+18:25:53.519 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on my account ****
+18:25:53.978 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on account registration ****
+18:25:53.980 [main] INFO  testCases.TC_001_AccountRegistration - **** Providing registration information ****
+18:26:00.357 [main] ERROR testCases.TC_001_AccountRegistration - Test failed ........
+18:26:02.538 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:26:02.999 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Login details *****
+18:26:03.260 [main] INFO  testCases.TC_002_LoginTest - ***** Validation *****
+18:31:21.093 [main] INFO  testCases.TC_001_AccountRegistration - test_Account_Registration started .......
+18:31:21.174 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on my account ****
+18:31:21.572 [main] INFO  testCases.TC_001_AccountRegistration - **** Clicked on account registration ****
+18:31:21.576 [main] INFO  testCases.TC_001_AccountRegistration - **** Providing registration information ****
+18:31:28.096 [main] ERROR testCases.TC_001_AccountRegistration - Test failed ........
+18:31:30.373 [main] INFO  testCases.TC_002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:31:30.788 [main] INFO  testCases.TC_002_LoginTest - ***** Providing Login details *****
+18:31:31.030 [main] INFO  testCases.TC_002_LoginTest - ***** Validation *****
